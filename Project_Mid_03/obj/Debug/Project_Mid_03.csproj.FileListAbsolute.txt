@@ -1,0 +1,8 @@
+D:\R54\M2\Projects\9\Project_Mid_03\Project_Mid_03\bin\Debug\Project_Mid_03.exe.config
+D:\R54\M2\Projects\9\Project_Mid_03\Project_Mid_03\bin\Debug\Project_Mid_03.exe
+D:\R54\M2\Projects\9\Project_Mid_03\Project_Mid_03\bin\Debug\Project_Mid_03.pdb
+D:\R54\M2\Projects\9\Project_Mid_03\Project_Mid_03\obj\Debug\Project_Mid_03.csproj.AssemblyReference.cache
+D:\R54\M2\Projects\9\Project_Mid_03\Project_Mid_03\obj\Debug\Project_Mid_03.csproj.SuggestedBindingRedirects.cache
+D:\R54\M2\Projects\9\Project_Mid_03\Project_Mid_03\obj\Debug\Project_Mid_03.csproj.CoreCompileInputs.cache
+D:\R54\M2\Projects\9\Project_Mid_03\Project_Mid_03\obj\Debug\Project_Mid_03.exe
+D:\R54\M2\Projects\9\Project_Mid_03\Project_Mid_03\obj\Debug\Project_Mid_03.pdb
